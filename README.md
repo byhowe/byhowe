@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @byhowe
 - I love Rust, hate Haskell, don't know how I feel about Python
-- 👀 I’m interested in Linux, Rust, Statistics, Mathematics, Physics, Engineering, AI and many more things
+- 👀 I’m interested in Electrical & Electronics Engineering, Mathematics, Linux, Rust, Physics, and many more things
 - 🌱 I’m currently learning data analysis tools in Python
 
 I am currently working on a cryptography library that I started writing in Rust
